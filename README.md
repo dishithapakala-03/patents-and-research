@@ -1,4 +1,3 @@
-# patents-and-research
 # Patents & Research
 
 Patents, research and recognition from my undergraduate work at VIT-AP University (B.Tech CSE, 2021-2025).
@@ -32,7 +31,7 @@ Patents, research and recognition from my undergraduate work at VIT-AP Universit
 
 **Verify:** Search Application No. `202341085234` on the [Indian Patent Office search portal](https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus).
 
-![Indian Patent Office record, Patent No. 595016](Indian%20Patent%20Office%20record,%20Patent%20No.%20595016.png)
+![Indian Patent Office record, Patent No. 595016](assets/Indian%20Patent%20Office%20record,%20Patent%20No.%20595016.png)
 
 ---
 
@@ -63,8 +62,6 @@ Patents, research and recognition from my undergraduate work at VIT-AP Universit
 
 Co-authored peer-reviewed paper in *Procedia Computer Science*. An EfficientNetB0 transfer-learning model classifying leaf disease states across apple, cherry and blueberry, trained on 13,096 images, with 98.35% accuracy.
 
-[Link to paper — add DOI here]
-
 `TensorFlow` `EfficientNetB0` `Transfer Learning`
 
 ---
@@ -73,7 +70,7 @@ Co-authored peer-reviewed paper in *Procedia Computer Science*. An EfficientNetB
 
 **Certificate of Merit, VIT-AP University** — Second place among all Engineering Clinics Group Projects for the *Rail Accident Prevention System*, Fast Track Fall 2023-24.
 
-![Certificate of Merit](Certificate%20of%20Merit.png)
+![Certificate of Merit](assets/Certificate%20of%20Merit.png)
 
 ---
 
